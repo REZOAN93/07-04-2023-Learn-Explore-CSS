@@ -1,0 +1,27 @@
+* {
+  margin: none;
+}
+.blog {
+  border: 10px solid tomato;
+  padding: 20px;
+  margin: 20px;
+  text-align: justify;
+  /* margin: 10px 20px; top bottom   left right */
+  /* margin: 10px 20px 30px; T RL B; */
+  /* margin: 10px 20px 30px 20px; T R B L */
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px blueviolet;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: aquamarine;
+}
+.second {
+  /* display: none; */
+  visibility: hidden;
+}
+
+.header {
+  height: 300px;
+  border: 1px solid black;
+  background-image: url(/my_first_css-main/images/grandma/grandma.jpg);
+  background-repeat: no-repeat;
+}
